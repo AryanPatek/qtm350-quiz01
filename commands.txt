@@ -1,5 +1,5 @@
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+git clone https://github.com/AryanPatek/qtm350-quiz01.git
+cd qtm350-quiz01
 touch commands.txt
 git checkout -b feature-update
 mkdir reports
@@ -24,6 +24,7 @@ echo "All commands used throughout the project" > commands.txt
 git add commands.txt
 git commit -m "Document all commands in commands.txt"
 git push origin main
+
 
 
 
